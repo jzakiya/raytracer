@@ -1,2 +1,2 @@
-crystal build RayTracer.cr
+crystal build RayTracer.cr --release
 ./RayTracer
