@@ -8,3 +8,4 @@ name = "RayTracer"
 
 [dependencies]
 bmp = "*"
+rayon = "1.5"
